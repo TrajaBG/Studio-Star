@@ -4,6 +4,15 @@ body {
     font-family: 'Mukta', sans-serif;
     font-size: 1.2em;
 }
+a {
+    background: #000000;
+    color: aliceblue;
+    display: block;
+    text-decoration: none;
+    padding: 10px; 
+    text-align: center;
+    border-bottom: 1px solid white;
+}
 h1 {
     font-family: 'Fjalla One', sans-serif;
     font-size: 2em;
