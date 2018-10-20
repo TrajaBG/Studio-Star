@@ -4,7 +4,7 @@ body {
     font-family: 'Mukta', sans-serif;
     font-size: 1.2em;
 }
-a {
+nav a {
     background: #000000;
     color: aliceblue;
     display: block;
@@ -14,7 +14,7 @@ a {
     border-bottom: 1px solid white;
 }
 @media (min-width: 800px) {
-a {
+nav a {
     border-bottom: none;
     border-right: 1px solid white;
     width: 25%
