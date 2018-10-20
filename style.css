@@ -17,3 +17,8 @@ h3 {
     font-family: 'Fjalla One', sans-serif;
     font-size: 1.5em;
 }
+
+.logo {
+    width: 150px;
+    height: 150px;
+}
